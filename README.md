@@ -250,29 +250,29 @@ Here are some screenshots showcasing different aspects of the project:
 
 ### Screenshot 1: user-Register
 
-![ user-Register](https://github.com/devesh1231/Vyld-Task/blob/main/register.png);
+![ user-Register](https://github.com/devesh1231/Vyld-Assignment/blob/main/register.png);
 
 
 
 ### Screenshot 2: user-login 
 
-![user-login ](https://github.com/devesh1231/Vyld-Task/blob/main/login-.png)
+![user-login ](https://github.com/devesh1231/Vyld-Assignment/blob/main/login-.png)
 
 
 
 ### Screenshot 3: User-details
 
-![ User-details](https://github.com/devesh1231/Vyld-Task/blob/main/details.png)
+![ User-details](https://github.com/devesh1231/Vyld-Assignment/blob/main/details.png)
 
 ### Screenshot 4: user-update
 
-![ user-update](https://github.com/devesh1231/Vyld-Task/blob/main/update.png)
+![ user-update](https://github.com/devesh1231/Vyld-Assignment/blob/main/update.png)
 
 ### Screenshot 5: user-delete
 
-![user-delete](https://github.com/devesh1231/Vyld-Task/blob/main/delete.png);
+![user-delete](https://github.com/devesh1231/Vyld-Assignment/blob/main/delete.png);
 
 ### Screenshot 6: user-logout
 
-![user-logout](https://github.com/devesh1231/Vyld-Task/blob/main/logout.png)
+![user-logout](https://github.com/devesh1231/Vyld-Assignment/blob/main/logout.png)
 <!-- Add more screenshots as needed -->
